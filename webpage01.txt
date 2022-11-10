@@ -1,0 +1,32 @@
+<html>
+    <style>
+        head{
+            allign-text:centre;
+        }
+        section {
+    background-image: url("https://www.wallpapers4u.org/wp-content/uploads/dogs_grass_puppy_sitting_65436_1920x1080.jpg");
+    background-size:100% 100%;
+        }
+        </style>
+    .section{
+        background-image:transparent;
+    }
+    <SECTION>
+        <head style="color:red;"><strong>PERSONAL-WEBSITE</allign></strong></head>
+
+
+        <div>
+            <h4 style="display:inline;">Name:</h4><p style="display:inline;"><em>Devika.korrapati</em></p>
+            <h4 >Date of Birth:</h4><p style="display:inline;">15-08-2003</p>
+        
+        <h4 style="color:grey";>Hobbies:</h4>
+        <ul>
+            <li>Listening songs</li>
+            <li>Dancing</li>
+            <li>Web browsing</li>
+        </ul>
+        <h4>Strengths:</h4>
+        <p>Family and Friends</p>
+</div>
+    </SECTION>
+</html>
